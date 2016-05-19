@@ -1,0 +1,14 @@
+{
+  "extName" : {
+    "message" : "AliExpress Affiliate Export",
+    "description" : "Extension name"
+  },
+  "extShortName" : {
+    "message" : "AliExport",
+    "description" : "Extension short name"
+  },
+  "extDescription" : {
+    "message" : "Tool for export AliExpress Products to Wordpress csv...",
+    "description" : "Extension description"
+  }
+}
