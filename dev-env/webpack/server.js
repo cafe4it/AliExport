@@ -20,6 +20,7 @@ module.exports = function(webpackConfig) {
     quiet: false,
     // No info filters only initial compilation it seems.
     noInfo: false,
+    historyApiFallback: true,
     // noInfo: true,
     // Remove console.log mess during watch.
     stats: {

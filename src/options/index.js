@@ -9,6 +9,7 @@ import { Router, browserHistory } from 'react-router';
 
 import reducers from './reducers';
 import routes from './libs/routes.js';
+import paths from './libs/routes_path.js';
 
 
 const createStoreWithMiddleware = applyMiddleware()(createStore);
